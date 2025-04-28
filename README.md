@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-After studying Computer Science for a year, I am now in the first year of my Economics degree. I am very interested in statistical methods in Economics, and currently, I am particularly focused on climate economics.
+After studying Computer Science for a year, I am now in the third semester of my Economics degree. I am very interested in statistical methods in Economics, and currently, I am particularly focused on climate economics.
 On this profile, you will find projects I have completed and those I am currently working on.
 
 <!--
